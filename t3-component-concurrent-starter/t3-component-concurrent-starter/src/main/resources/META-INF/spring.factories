@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+	com.thunisoft.t3.concurrent.configuration.ThreadPoolConfiguration

@@ -1,0 +1,8 @@
+
+concurrent:
+  threadpool:
+    thread-name-prefix: t3-Thread-
+    core-pool-size: 16
+    max-pool-size: 128
+    queue-capacity: 0
+    keep-alive-seconds: 30
